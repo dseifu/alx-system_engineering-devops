@@ -1,1 +1,1 @@
-getting the current working dir using bash
+writing bash programs to do some basic commands

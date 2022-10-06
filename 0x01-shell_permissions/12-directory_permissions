@@ -1,2 +1,2 @@
 #!/bin/bash
-whoami
+mkdir -m 751 my_dir

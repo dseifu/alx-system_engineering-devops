@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -empty -print | cut -d/ --fields=2
+find  -empty -print | rev | cut -d/ --fields=1 | rev
